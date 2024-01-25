@@ -7,4 +7,4 @@
 
 # Завдання 2. Обчислення визначеного інтеграла:
 **Графік:**<br>
-Images/plot.png
+[Images/plot.png](https://github.com/Spogoretskyi/goit-algo-hw-10/blob/main/Images/plot.png)https://github.com/Spogoretskyi/goit-algo-hw-10/blob/main/Images/plot.png
